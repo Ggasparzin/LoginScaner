@@ -21,6 +21,6 @@ public class Login1 {
             System.out.println("Bem vindo(a) " + nome + "! Em "+ soma + " anos você terá 50 anos!" );
         }
         System.out.print("Sua altura é: " + alturaF + " centímetros" );
-        Entrar.close();
+            Entrar.close();
     }
 }
